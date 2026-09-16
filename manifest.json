@@ -1,0 +1,13 @@
+{
+  "name": "Nua — Baby Name Numerology",
+  "short_name": "Nua",
+  "description": "Name a baby with Matthew Goodwin's numerology. Full-name readings, live name search, ask the numerologist.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08070b",
+  "theme_color": "#08070b",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
